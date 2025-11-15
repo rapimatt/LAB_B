@@ -13,6 +13,7 @@ int main(void) {
     printf("Initial: %c\n", initial);
     printf("Space: %lf\n", space);
     printf("Victor marie");
+    printf("Konsehal krok");
 
 
     return 0;

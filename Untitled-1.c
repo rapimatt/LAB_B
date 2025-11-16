@@ -15,7 +15,7 @@ int main(void) {
     printf("Victor marie");
     printf("Konsehal krok");
     printf("Sirang plakak");
-    printf("addclb");
+    printf("addclv");
 
     return 0;
 }

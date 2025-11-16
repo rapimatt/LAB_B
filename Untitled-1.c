@@ -14,6 +14,7 @@ int main(void) {
     printf("Space: %lf\n", space);
     printf("Vicotr marie");
     printf("Konsehal krok");
+    printf("Sirang plakak");
     printf("addclv");
 
     return 0;

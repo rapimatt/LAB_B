@@ -12,7 +12,7 @@ int main(void) {
     printf("GPA: %f\n", gpa);
     printf("Initial: %c\n", initial);
     printf("Space: %lf\n", space);
-    printf("Victor marie");
+    printf("Vicotr marie");
     printf("Konsehal krok");
     printf("Sirang plakak");
     printf("addclv");

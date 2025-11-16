@@ -17,6 +17,5 @@ int main(void) {
     printf("Sirang plakak");
     printf("addclb");
 
-
     return 0;
 }

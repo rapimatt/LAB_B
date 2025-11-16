@@ -16,6 +16,7 @@ int main(void) {
     printf("Konsehal krok");
     printf("addclv");
     printf("hye");
+    printf("hokpe");
 
     return 0;
 }

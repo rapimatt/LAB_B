@@ -15,7 +15,6 @@ int main(void) {
     printf("Vicotr marie");
     printf("Konsehal krok");
     printf("addclv");
-    printf("hye");
 
     return 0;
 }
